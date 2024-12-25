@@ -1,0 +1,2 @@
+Final Model - Mean Squared Error: 162320.7499727627
+Final Model - R-Squared: 0.656590461730957
